@@ -1,0 +1,5 @@
+yarn create next-app (nome-projeto)
+
+yarn add typescript @types/react @types/react-dom @types/node -D
+
+yarn dev
